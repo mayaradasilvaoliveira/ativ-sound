@@ -1,0 +1,88 @@
+/*===================================
+            Formatação HTML
+===================================*/
+
+html {
+    font-size: calc(10px + 1vw);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #000000;
+    padding: 2vw 8vw 2vw 8vw;
+}
+
+html body header ul li a{
+    text-decoration: none;
+    color: #000000;
+}
+html body header nav {
+    display: flex;
+    justify-content: space-between;
+    height: 1rem;
+    padding: 2vw 14vw 10vw 0;
+}
+html body header nav ul {
+    display: flex;
+}
+html body header nav ul li {
+    margin: 0 2vw 0 2vw
+}
+html body main section.um {
+    display: flex;
+    margin: 0 5vw 7vw 0;
+}
+html body main section.um h1 {
+    font-size: 2REM;
+    border-bottom: 1px solid #9E9B9B;
+    padding: 0 0 3vw 0
+}
+html body section.um p {
+    padding: 7px 15px 0 0;
+}
+html body section.um div.fonte h4.fonte2 {
+   font-weight: bold; 
+   
+}
+html body section div.fonte p.cortexto {
+    color: #9E9B9B;
+    margin: 0 0 0 0;
+}
+    
+html body main section.dois {
+    display: flex;
+    margin: 5vw 5vw 5vw 5vw;
+
+} 
+html body main section div {
+    font-size: 17px ;
+    margin: 2vw 2vw 2vw 2vw ;
+}
+
+html body main section div h3 {
+    font-size: 1.7rem;
+}
+html body main section div h2 {
+    font-size: 2rem;
+    margin: 0 2vw 2vw 0;
+    color: #000000;
+}
+html body main section div p {
+    margin: 2vw 0 3vw 0;
+}
+html body main section div.espacamento {
+    margin: 0 10vw 0 0;
+}
+html body main section div span {
+    color: #9E9B9B;
+}
+html body main section div.cor p {
+    color: #9E9B9B ;
+}
+html body main div.cor ol li {
+    border-bottom:1px solid #9E9B9B;
+    margin: 20px 0 0 0 ;
+}
+html body main div.espacamento p {
+    color: #404852 ;
+}
+html body main section div.Samantha {
+    display: flex;
+}
